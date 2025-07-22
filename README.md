@@ -1,2 +1,2 @@
 # Projet-Recette
-Un livre de recettes collaboratif
+Un livre de recettes
